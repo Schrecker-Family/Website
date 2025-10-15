@@ -1,0 +1,18 @@
+site_name: Geoff Schrecker's Family HistoryWebsite
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - The Fleming Family History:
+      - Fleming, William Edwin Charlton 1882-1946: FlemingWEC.md  
+  - The Schrecker Family History:
+      - Schrecker, Robert 1893-1957: SchreckerR.md
+  - MkDocs: mkdocs.md
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - tables
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
