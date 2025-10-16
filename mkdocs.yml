@@ -1,6 +1,36 @@
 site_name: Geoff Schrecker's Family History Website
 theme:
   name: material
+  palette:
+    #Light mode
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    # Dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  font:
+    text: Roboto
+    code: Roboto Mono
+  features:
+    - navigation.tabs
+    - navigation.top
+    - search.highlight
+    - search.suggest
+    - toc.integrate
+    - content.code.annotate
+    - content.tabs.link
+    - header.autohide
+    - navigation.sections
+    - navigation.expand
+    - navigation.instant
 nav:
   - Home: index.md
   - The Fleming Family History:
