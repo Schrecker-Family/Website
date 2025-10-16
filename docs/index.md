@@ -4,4 +4,4 @@ On this site I wil put the stories of some of my ancestors and their families. I
 
 ![Fan chart][def]
 
-[def]: assets/FanChart.png
+[def]: assets/GeoffFanChart.jpg
