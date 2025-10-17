@@ -3,6 +3,12 @@
 
 ---
 
+## Summary
+
+William Edwin Charlton Fleming was an Anglican clergyman whose ministry spanned from the early 1900s through the mid‑20th century. Born in Kilskeery, educated at Trinity College Dublin, he served in Derry, Learmount, and later returned to his native parish. His wartime chaplaincy during World War I placed him at the front lines, providing pastoral care to soldiers in France. After the war, he held senior curacies amid the political reconfiguration of Ireland and the establishment of Northern Ireland. Married twice, he fathered four children who lived through the interwar period and World War II. Fleming died in 1946, was buried back at his birthplace, and left a legacy of steadfast pastoral service during some of the most turbulent events in Irish and British history.
+
+---
+
 ## Early Life and Family
 
 | Date | Event |
@@ -84,8 +90,3 @@
 | **Irish Civil War (1922‑1923)** | Further sectarian tension; instability in the new state. | Fleming’s curacies in Kilskeery and Maguiresbridge occurred during this turbulent period. |
 | **World War II (1939‑1945)** | Global conflict; economic hardship, rationing. | While not in active service, Fleming’s parish community would have experienced wartime challenges. |
 
----
-
-## Summary
-
-William Edwin Charlton Fleming was an Anglican clergyman whose ministry spanned from the early 1900s through the mid‑20th century. Born in Kilskeery, educated at Trinity College Dublin, he served in Derry, Learmount, and later returned to his native parish. His wartime chaplaincy during World War I placed him at the front lines, providing pastoral care to soldiers in France. After the war, he held senior curacies amid the political reconfiguration of Ireland and the establishment of Northern Ireland. Married twice, he fathered four children who lived through the interwar period and World War II. Fleming died in 1946, was buried back at his birthplace, and left a legacy of steadfast pastoral service during some of the most turbulent events in Irish and British history.
