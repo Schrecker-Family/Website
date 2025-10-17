@@ -19,25 +19,13 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
-  features:
-    - navigation.tabs
-    - navigation.top
-    - search.highlight
-    - search.suggest
-    - toc.integrate
-    - content.code.annotate
-    - content.tabs.link
-    - header.autohide
-    - navigation.sections
-    - navigation.expand
-    - navigation.instant
 nav:
   - Home: index.md
   - The Fleming Family History:
       - Fleming, William Edwin Charlton 1882-1946: FlemingWEC.md  
   - The Schrecker Family History:
       - Schrecker, Robert 1893-1957: SchreckerR.md
-  - MkDocs: mkdocs.md
+
 
 markdown_extensions:
   - attr_list
