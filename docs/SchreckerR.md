@@ -19,7 +19,7 @@ Robert Schrecker was a man whose life spanned the turbulent first half of the 20
 | 16 Nov 1893 | Born in Vienna, Austria‑Hungary. |
 | 29 Sep 1911 | Registered as a resident in London, United Kingdom. |
 
-Robert’s family emigrated from the Austro‑Hungarian Empire to England in the years leading up to World I. The move coincided with a period of rapid industrialisation and growing nationalism across Europe.
+Robert moved from Vienna to England in the years leading up to World I. The move coincided with a period of rapid industrialisation and growing nationalism across Europe.
 
 ---
 
