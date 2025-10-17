@@ -8,7 +8,7 @@
 
 ## Summary
 
-Robert Schrecker was a man whose life spanned the turbulent first half of the 20th century. Born in Vienna, he emigrated to England before World I, where he was interned during the war. After returning to Vienna, he married and later resigned his Jewish faith. He became a Freemason in Frankfurt during the interwar period, worked as a merchant amid economic instability, and returned to England just before World II. There he served in civil defence, worked in chemical research for the war effort, and was naturalised as a British citizen. He spent his later years in Wimbledon until his death in 1957, leaving behind a family that continued his legacy into the late 20th and early 21st centuries.
+Robert Schrecker was a man whose life spanned the turbulent first half of the 20th century. Born in Vienna, he emigrated to England before World I, where he was interned during the war. After returning to Vienna, he married and later resigned his Jewish faith. He became a Freemason in Frankfurt during the interwar period, worked as a merchant amid economic instability, and returned to England just before World II. There he served in civil defence, worked in chemical research, and was naturalised as a British citizen. He spent his later years in Wimbledon until his death in 1957, leaving behind a family that continued his legacy into the late 20th and early 21st centuries.
 
 ---
 
