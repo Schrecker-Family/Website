@@ -39,6 +39,8 @@ William Edwin Charlton Fleming was an Anglican clergyman whose ministry spanned 
 
 ## Military Chaplaincy (World War I)
 
+![Chaplain](assets/FlemingWEC1882/Fleming,%20William%20Edwin%20Charlton%201882-1946%201917%20in%20uniform%20copy.jpg){; align=left }
+
 - **June 1917 – July 1918** – Served as a military chaplain.  
 - **12 Jun 1917** – Commissioned as a chaplain.  
 - **27 Jan 1918** – Deployed near St Quentin, France.  
