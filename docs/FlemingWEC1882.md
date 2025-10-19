@@ -11,6 +11,8 @@ William Edwin Charlton Fleming was an Anglican clergyman whose ministry spanned 
 
 ## Early Life and Family
 
+![Old Canon and Family](assets/FlemingWEC1882/Old%20Canon%20with%20Family%20edit.jpg){: align=left }
+
 | Date | Event |
 |------|-------|
 | **31 May 1882** | Born at The Rectory, Kilskeery, County Tyrone, Northern Ireland. |
