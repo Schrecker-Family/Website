@@ -22,6 +22,8 @@ Violet Winifred McIntyre was born in 1897 on the northern coast of Ireland, grew
 
 ## Professional Life (1918–1927)
 
+![Gran age 20](assets/McIntyreVW1897/Gran%20age%2020.jpg){: align=left }
+
 | Date | Event | Location |
 |------|-------|----------|
 | Sep 1918 | Appointed Principal Teacher. | Kilskeery, County Tyrone, Northern Ireland |
