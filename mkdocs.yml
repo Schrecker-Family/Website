@@ -22,11 +22,11 @@ theme:
 nav:
   - Home: index.md
   - The Fleming Family History:
-      - Fleming, William Edwin Charlton 1882-1946: FlemingWEC.md 
-      - McIntyre, Violet Winifred 1897-1983: McIntyreVW.md 
+      - Fleming, William Edwin Charlton 1882-1946: FlemingWEC1882.md 
+      - McIntyre, Violet Winifred 1897-1983: McIntyreVW1897.md 
   - The Schrecker Family History:
       - Bischitzky, Alice 1901-1987: BischitzkyA1901.md
-      - Schrecker, Robert 1893-1957: SchreckerR.md
+      - Schrecker, Robert 1893-1957: SchreckerR1893.md
 
 
 markdown_extensions:
