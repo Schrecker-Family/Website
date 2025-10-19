@@ -9,7 +9,7 @@ Violet Winifred McIntyre was born in 1897 on the northern coast of Ireland, grew
 
 | Date | Event | Location |
 |------|-------|----------|
-| 23 Oct 1897 | Birth registered (Glack) – Violet Winifred McIntyre, daughter of farmer William McIntyre and Elizabeth McEldowney (née Faulkner). | Culdaff, Inishowen, County Donegal, Ireland |
+| 23 Oct 1897 | Birth registered (Glack) – Violet Winifred McIntyre, daughter of farmer William McIntyre and Elizabeth Faulkner (née McEldowney). | Culdaff, Inishowen, County Donegal, Ireland |
 | 31 Mar 1901 | Residence recorded as “daughter of head of house” at age 3. | Culdaff, Inishowen |
 | 2 Apr 1911 | Residence recorded again as “daughter” at age 13. | Culdaff, Inishowen |
 
