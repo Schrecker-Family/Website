@@ -136,5 +136,5 @@ These events shaped Robert’s movements between Austria, Germany, and England, 
 
 
 
-*Created using LM Studio from RootsMagic. 
+*Created using openai/gpt-oss-20b in LM Studio from data collected in RootsMagic 11. 
 This biography presents only objective facts drawn from the provided records, without subjective interpretation.*

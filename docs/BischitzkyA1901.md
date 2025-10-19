@@ -72,3 +72,10 @@ Alice Bischitzky (1901–1987) was born in Prague, married in Vienna, and lived 
 ---
 
 **Alice Bischitzky’s life is a testament to the resilience of individuals who navigated the shifting political landscapes of 20th‑century Europe, maintaining family ties and adapting to new homes across borders.**
+
+---
+
+
+
+*Created using openai/gpt-oss-20b in LM Studio from data collected in RootsMagic 11. 
+This biography presents only objective facts drawn from the provided records, without subjective interpretation.*

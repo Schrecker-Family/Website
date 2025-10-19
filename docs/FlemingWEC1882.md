@@ -90,3 +90,9 @@ William Edwin Charlton Fleming was an Anglican clergyman whose ministry spanned 
 | **Irish Civil War (1922‑1923)** | Further sectarian tension; instability in the new state. | Fleming’s curacies in Kilskeery and Maguiresbridge occurred during this turbulent period. |
 | **World War II (1939‑1945)** | Global conflict; economic hardship, rationing. | While not in active service, Fleming’s parish community would have experienced wartime challenges. |
 
+---
+
+
+
+*Created using openai/gpt-oss-20b in LM Studio from data collected in RootsMagic 11. 
+This biography presents only objective facts drawn from the provided records, without subjective interpretation.*
