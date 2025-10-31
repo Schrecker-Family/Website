@@ -6,7 +6,7 @@ My father's family, the Schrecker Family, were a European Ashkenazi Jewish famil
 
 My mother's family origins, the Flemings, are Irish (mainly of Scottish descent), and English. They experienced various rises and falls in their fortunes, some of the Irish leaving for America in the mid 1800s, whilst those who remained lived through the turmoil of the struggles for Irish independence in the late 19th and ealry 20th centuries.
 
-For the moment these are summaries generated using openai/gpt-oss-20b in LM Studio from data collected in RootsMagic 11, but over time I will flesh out the stories :slight_smile:
+For the moment these are summaries generated using openai/gpt-oss-20b in [LM Studio](https://lmstudio.ai) from data collected in [RootsMagic 11](https://www.rootsmagic.com), but over time I will flesh out the stories :slight_smile:
 
 ![Fan chart][def]
 
