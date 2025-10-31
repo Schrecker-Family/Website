@@ -5,7 +5,7 @@
 
 ## Summary
 
-William Edwin Charlton Fleming was an Anglican clergyman whose ministry spanned from the early 1900s through the mid‑20th century. Born in Kilskeery, educated at Trinity College Dublin, he served in Derry, Learmount, and later returned to his native parish. His wartime chaplaincy during World War I placed him at the front lines, providing pastoral care to soldiers in France. After the war, he held senior curacies amid the political reconfiguration of Ireland and the establishment of Northern Ireland. Married twice, he fathered four children who lived through the interwar period and World War II. Fleming died in 1946, was buried back at his birthplace, and left a legacy of steadfast pastoral service during some of the most turbulent events in Irish and British history.
+William Edwin Charlton Fleming was an Anglican clergyman whose ministry spanned from the early 1900s through the mid‑20th century. Born in Kilskeery, educated at Trinity College Dublin, he served in Derry, Learmount, and later returned to his native parish. His wartime chaplaincy during World War I placed him at the front lines, providing pastoral care to soldiers in France. After the war, he held senior curacies amid the political reconfiguration of Ireland and the establishment of Northern Ireland. Married twice, first to Jean Smythe whod ied after only a few mnths of their marriage, then to [Violet McIntyre](McIntyreVW1897.md). He fathered four children who lived through the interwar period and World War II. Fleming died in 1946, was buried back at his birthplace, and left a legacy of steadfast pastoral service during some of the most turbulent events in Irish and British history.
 
 ---
 
