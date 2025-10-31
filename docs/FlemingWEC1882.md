@@ -11,7 +11,11 @@ William Edwin Charlton Fleming was an Anglican clergyman whose ministry spanned 
 
 ## Early Life and Family
 
-![Old Canon and Family](assets/FlemingWEC1882/Old%20Canon%20with%20Family%20edit.jpg){: align=center }
+<figure markdown="span">
+  ![Old Canon and Family](assets/FlemingWEC1882/Old%20Canon%20with%20Family%20edit.jpg){: align=center }
+  <figcaption>Edwin (seated) with his Father, Sister Evelyn and Brother Dudley</figcaption>
+</figure>
+
 
 | Date | Event |
 |------|-------|
