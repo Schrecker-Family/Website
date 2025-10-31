@@ -1,5 +1,4 @@
-# William Edwin Charlton Fleming  
-*1882 – 1946*  
+# William Edwin Charlton Fleming  (1882 – 1946)
 
 ---
 
