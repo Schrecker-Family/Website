@@ -4,13 +4,13 @@
 
 ## Summary  
 
+
+Violet Winifred McIntyre was born in 1897 on the northern coast of Ireland, grew up during a period of great social and political change, became a principal teacher in County Tyrone, married [William Edwin Charlton Fleming](FlemingWEC1882.md), raised four children, and passed away in Belfast in 1983. Her life spanned the decline of the Irish aristocracy, two world wars, the partition of Ireland, and the post‑war modernization of Northern Ireland.
+
 <figure markdown="span">
   ![Gran age 20](assets/McIntyreVW1897/Gran%20age%2020.jpg){: align=center }
   <figcaption>Violet c.1927</figcaption>
 </figure>
-
-Violet Winifred McIntyre was born in 1897 on the northern coast of Ireland, grew up during a period of great social and political change, became a principal teacher in County Tyrone, married [William Edwin Charlton Fleming](FlemingWEC1882.md), raised four children, and passed away in Belfast in 1983. Her life spanned the decline of the Irish aristocracy, two world wars, the partition of Ireland, and the post‑war modernization of Northern Ireland.
-
 ---
 
 ## Early Years (1897–1918)
