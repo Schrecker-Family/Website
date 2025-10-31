@@ -11,7 +11,7 @@ William Edwin Charlton Fleming was an Anglican clergyman whose ministry spanned 
 
 ## Early Life and Family
 
-![Old Canon and Family](assets/FlemingWEC1882/Old%20Canon%20with%20Family%20edit.jpg){: align=left }
+![Old Canon and Family](assets/FlemingWEC1882/Old%20Canon%20with%20Family%20edit.jpg){: align=center }
 
 | Date | Event |
 |------|-------|
