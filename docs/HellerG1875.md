@@ -34,7 +34,7 @@ Gabriella Heller was a Czech‑born woman who lived through significant periods 
 
 ## Emigration to the United Kingdom (1939)
 
-- **Escape from Prague** – On 3 March 1939, Gabriella escaped Prague just before the Nazi occupation of Czechoslovakia. She was on the last flight to “Croyden” (a likely misspelling of Croydon) out of Prague, as recorded by an associate named Bruno.  
+- **Escape from Prague** – On 3 March 1939, Gabriella escaped Prague just before the Nazi occupation of Czechoslovakia. She was on the last flight to Croydon out of Prague, as recorded by her son Bruno.  
 - **Settlement in London** – She arrived in London, England, and shortly thereafter established residence at 138 Dora Road, Wimbledon, Surrey on 29 September 1939.  
 - **Historical context** – The annexation of the Sudetenland in 1938 and subsequent occupation of the rest of Czechoslovakia by Nazi Germany prompted many Czech citizens to flee. The United Kingdom became a refuge for numerous political exiles during the early years of World War II.
 
