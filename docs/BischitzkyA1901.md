@@ -1,3 +1,5 @@
+#Alice Bischitzky (1901-1987)
+
 ## Summary  
 
 Alice Bischitzky (1901–1987) was born in Prague, married in Vienna, and lived through the tumultuous interwar period, World War II, and post‑war Europe. After leaving Germany in 1933 she returned to Prague, then emigrated to London in 1935. She remained in Britain for the rest of her life, living in Wimbledon and later Bath. Alice’s family background includes a Czech Jewish lineage; her father was Emil Bischitzky, and she had two brothers. She married [Robert Schrecker](SchreckerR1893.md) in 1921, with whom she raised three sons—Peter Theodor, Martin Gerhart, and Bruno Tom. Alice died in Bath on 8 January 1987 and was buried in Somerset.
