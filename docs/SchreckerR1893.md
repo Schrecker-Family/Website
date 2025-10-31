@@ -5,6 +5,10 @@
 ## Summary  
 Robert Schrecker (16 Nov 1893 – 7 Dec 1957) was a Viennese‑born merchant who spent most of his adult life in London, with brief periods in Frankfurt. He began his career at the Banca Commerciale Italiana in London, survived internment during World I, married in Vienna, and later became a Freemason in Frankfurt. During the Second World War he served as an Air‑Raid Precautions (ARP) communication warden and worked for a chemical manufacturer in London. He was naturalised as a British citizen in 1946 and lived his final years in Wimbledon until his death in 1957. His family—his wife [Alice Bischitzky](BischitzkyA1901.md) and their three sons—continued to thrive in post‑war Britain.
 
+<figure markdown="span">
+  ![Image title](assets/SchreckerR1893/Opa%20in%20Alexandra%20Palace.jpg){ align=center }
+  <figcaption>Robert in his room in the Tower at Alexandra Palace</figcaption>
+</figure>
 ---
 
 ## Early Years (1893–1911)
