@@ -4,11 +4,13 @@ Alice Bischitzky (1901–1987) was born in Prague, married in Vienna, and lived 
 
 ---
 
-![Oma with Ice Pick](assets/BischitzkyA1901/Oma1921.jpg){: align=center }
+<figure markdown="span">
+  ![Oma with Ice Pick](assets/BischitzkyA1901/Oma1921.jpg){: align=center }
+  <figcaption>Alice 1921 on holiday in Telfes, Austria</figcaption>
+</figure>
 
-/// caption
-Alice 1921 on holiday in Telfes, Austria
-///
+
+
 
 
 ## Biography  
