@@ -8,7 +8,7 @@ Gabriella Heller was a Czech‑born woman who lived through significant periods 
 ## Early Life (1875 – 1898)
 
 - **Birth** – Gabriella Heller was born on 2 January 1875 in Kovač, a village that at the time was part of the Austro‑Hungarian Empire and is now within the Czech Republic.  
-- **Family** – She was one of eleven children born to Markus Heller (1841‑1906) and Julie Kahn (1837‑1919). Her siblings were Eugen, Henrietta, Karel, Olga, Emma, Antonie, and Bedřich (Friedrich).  
+- **Family** – She was one of eight children born to Markus Heller (1841‑1906) and Julie Kahn (1837‑1919). Her siblings were Eugen, Henrietta, Karel, Olga, Emma, Antonie, and Bedřich (Friedrich).  
 - **Historical context** – The late 19th century in Central Europe was marked by the consolidation of national identities within the Austro‑Hungarian Empire, rising industrialization, and increasing tensions between ethnic groups.
 
 ---
