@@ -73,7 +73,7 @@ Alice Bischitzky (1901–1987) was born in Prague, married in Vienna, and lived 
 
 - **Father**: Emil Bischitzky (1868–1948) – a Czech Jewish businessman.  
 - **Mother**: Gabriella Heller (1875–1962) – a Czech Jewish woman.  
-- **Brothers**: Otto Josef Bischitzky (1898–1900) and Robert Bischitzky (1900–1942).  
+- **Brothers**: Otto Josef Bischitzky (1898–1900) and [Robert Bischitzky (1900–1942)](BischitzkyR1900.md).  
 - **Spouse**: Robert Schrecker (1893–1957) – an Austrian Jewish businessman.  
 - **Children**: Peter Theodor Schrecker (1923–2020), Martin Gerhart Schrecker (1925–2001), Bruno Tom Schrecker (born 1928).
 
