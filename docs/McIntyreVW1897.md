@@ -1,5 +1,7 @@
 # Violet Winifred McIntyre (1897 – 1983)
 
+---
+
 ## Summary  
 
 <figure markdown="span">

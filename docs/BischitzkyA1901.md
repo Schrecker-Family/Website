@@ -1,4 +1,6 @@
-#Alice Bischitzky (1901-1987)
+# Alice Bischitzky (1901-1987)
+
+---
 
 ## Summary  
 
