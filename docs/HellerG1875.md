@@ -26,6 +26,11 @@ Gabriella Heller was a Czech‑born woman who lived through significant periods 
 
 ## World War I and Interwar Years (1914 – 1939)
 
+<figure markdown="span">
+  ![Image title](assets/Bischitzky%20Family%201921.jpg){ align=center }
+  <figcaption>Ella with Emil, Alice and Robert. Telfes 1921</figcaption>
+</figure>
+
 - **World War I** – Gabriella lived through the First World War (1914‑1918). The war led to the dissolution of the Austro‑Hungarian Empire and the creation of Czechoslovakia in 1918.  
 - **Czechoslovak Republic** – During the interwar period, Prague became part of an independent Czechoslovakia. Gabriella’s family remained in the region, with her husband and children continuing their lives amid the republic’s democratic developments.  
 - **Historical context** – The interwar years were characterized by economic fluctuations, political experimentation, and a flourishing of arts and culture in Prague. Czechoslovakia was recognized as one of the more stable democracies in Europe until the late 1930s.
