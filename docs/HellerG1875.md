@@ -1,7 +1,7 @@
 # Gabriella Heller (1875 – 1962)
 
 ## Summary
-Gabriella Heller was a Czech‑born woman who lived through significant periods of European history, including the decline of the Austro‑Hungarian Empire, World War I, the interwar years in Czechoslovakia, and the rise of Nazi Germany. She married Emil Bischitzky in 1898, had three children, and later emigrated to the United Kingdom in 1939 to escape Nazi occupation. She settled in Wimbledon, Surrey, and later moved to Bath, Somerset, where she died in 1962. Her life spanned the transition from imperial Europe to a modern, post‑war world.
+Gabriella Heller (Ella) was a Czech‑born woman who lived through significant periods of European history, including the decline of the Austro‑Hungarian Empire, World War I, the interwar years in Czechoslovakia, and the rise of Nazi Germany. She married Emil Bischitzky in 1898, had three children, and later emigrated to the United Kingdom in 1939 to escape Nazi occupation. She settled in Wimbledon, Surrey, and later moved to Bath, Somerset, where she died in 1962. Her life spanned the transition from imperial Europe to a modern, post‑war world.
 
 ---
 
