@@ -1,7 +1,7 @@
 # Theodor Schrecker (1854‑1921)
 
 ## Summary
-Theodor Schrecker was a Czech-born accountant and iron‑mongery broker who spent most of his life in Vienna, Austria. Born on 20 December 1854 in Golčův Jeníkov (then part of the Austrian Empire), he moved to Vienna in 1874, where he worked as a bookkeeper and later as an iron broker until his death on 7 September 1921. He was married to Berta Neurath and had seven children, many of whom lived into the mid‑20th century. Schrecker died in Vienna and was buried at the Zentralfriedhof (Central Cemetery).
+Theodor Schrecker was a Czech-born accountant and iron‑mongery broker who spent most of his life in Vienna, Austria. Born on 20 December 1854 in Golčův Jeníkov (then part of the Austrian Empire), he moved to Vienna in 1874, where he worked as a bookkeeper and later as an iron broker until his death on 7 September 1921. He was married to [Berta Neurath](NeurathB1861.md) and had seven children, many of whom lived into the mid‑20th century. He died in Vienna and was buried at the Zentralfriedhof (Central Cemetery).
 
 ---
 
