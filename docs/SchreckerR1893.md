@@ -13,7 +13,7 @@ Robert Schrecker (16 Nov 1893 – 7 Dec 1957) was a Viennese‑born merc
 
 ## Early Years (1893–1911)
 
-Robert Schrecker was born on **16 November 1893** in Vienna, Austria‑Hungary, to Theodor Schrecker (1854–1921) and Berta Neurath (1861–1931). He was one of eight children: Elsa, Martha, Clara, Paul, Franz, Karl, and himself. Vienna at the turn of the twentieth century was a cosmopolitan capital of the Austro‑Hungarian Empire, home to vibrant cultural life and a thriving Jewish community. The Schrecker family was part of that community, which played an active role in commerce and civic life.
+Robert Schrecker was born on **16 November 1893** in Vienna, Austria‑Hungary, to [Theodor Schrecker (1854–1921)](SchreckerT1854.md) and Berta Neurath (1861–1931). He was one of eight children: Elsa, Martha, Clara, Paul, Franz, Karl, and himself. Vienna at the turn of the twentieth century was a cosmopolitan capital of the Austro‑Hungarian Empire, home to vibrant cultural life and a thriving Jewish community. The Schrecker family was part of that community, which played an active role in commerce and civic life.
 
 In **September 1911**, Robert moved to London, England. By the time of his arrival he was just 17 years old. The early 1910s in London were marked by industrial expansion, a growing expatriate population, and the looming threat of conflict that would soon erupt into World I.
 
