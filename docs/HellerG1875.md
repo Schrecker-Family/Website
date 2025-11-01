@@ -18,7 +18,7 @@ Gabriella Heller was a Czech‑born woman who lived through significant periods 
 - **Marriage** – On 13 February 1898, Gabriella married Emil Bischitzky (1868‑1948) at Hotel de Saxe in Prague.  
 - **Children** – The couple had three children:  
   - Otto Josef Bischitzky (1898‑1900)  
-  - Robert Bischitzky (1900‑1942)  
+  - Robert Bischitzky (1900‑c.1942)  
   - Alice Bischitzky (1901‑1987).  
 - **Historical context** – The period following her marriage was one of relative stability in the Austro‑Hungarian Empire, though underlying nationalist currents were growing. The early 1900s saw the expansion of railways and industry in Prague, providing new opportunities for families.
 
