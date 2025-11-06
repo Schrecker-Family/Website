@@ -22,6 +22,7 @@ theme:
 nav:
   - Home: index.md
   - The Fleming Family History:
+      - Fleming, William Edward Charlton 1843-1926: FlemingWEC1843.md
       - Fleming, William Edwin Charlton 1882-1946: FlemingWEC1882.md 
       - McIntyre, Violet Winifred 1897-1983: McIntyreVW1897.md 
   - The Schrecker Family History:
