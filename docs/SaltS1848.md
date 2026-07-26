@@ -1,4 +1,4 @@
-# Biography of Susanna Margaret Salt (1848 – 1908)
+# Susanna Margaret Salt (1848 – 1908)
 
 ---
 
