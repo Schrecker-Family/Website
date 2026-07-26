@@ -38,7 +38,7 @@ Robert Faulkner died in 1885, leaving Elizabeth a widow with five young children
   - Robert Alexander McIntyre (1891‑1969)
   - Catherine Ann McIntyre (1893‑1972)
   - Andrew Frederick McIntyre (1895‑1909)
-  - Violet Winifred McIntyre (1897‑1983)
+  - [Violet Winifred McIntyre][def2] (1897‑1983)
 
 William McIntyre passed away in 1927. During this period, Ireland experienced the Home Rule debates, the Easter Rising of 1916, and the subsequent War of Independence (1919‑1921). The establishment of the Irish Free State in 1922 brought new political structures to County Donegal, although rural life remained largely agrarian.
 
@@ -59,3 +59,4 @@ Her life spanned a transformative era in Irish history, witnessing the decline o
 Elizabeth McEldowney’s descendants continued to inhabit County Donegal and surrounding regions well into the 20th century. Her familial ties bridged multiple generations, reflecting the persistence of local community structures in rural Ireland during times of national change.
 
 [def]: McIntyreW1858.md
+[def2]: McIntyreVW1897.md
