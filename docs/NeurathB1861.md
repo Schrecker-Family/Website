@@ -8,7 +8,7 @@ Berta Neurath (9 June 1861 – 25 June 1931) was an Austrian woman who l
 ## Early Life and Family Background
 
 - **Birth**: 9 June 1861, Vienna, Austria (then part of the Austrian Empire).
-- **Parents**: Michael Neurath (1829–1910) and Leontine Helene Reiss (1833–1920).  
+- **Parents**: [Michael Neurath (1829–1910)](NeurathM1829.md) and Leontine Helene Reiss (1833–1920).  
 - **Siblings**: Berta was one of eleven children. Her siblings included Heinrich, Gustav Herbert, Emilie, Sophie (born 1865, died 1866), Ludwig Neudenegg, Clementine, Hermine, Rudolf, Eduard, Isidor, and Friedrich. The Neurath family was part of Vienna’s Jewish community.
 
 ### Historical Context
