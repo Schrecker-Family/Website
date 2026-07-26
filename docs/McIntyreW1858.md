@@ -21,7 +21,7 @@ William McIntyre (c. 1858 – 1927) was an Irish farmer and family man fro
   3. Robert Alexander McIntyre (1891‑1969)
   4. Catherine Ann McIntyre (1893‑1972)
   5. Andrew Frederick McIntyre (1895‑1909)
-  6. Violet Winifred McIntyre (1897‑1983)
+  6. [Violet Winifred McIntyre](McIntyreVW1897.md) (1897‑1983)
 
 - **Historical Context**: The 1880s and 1890s were marked by the Land War in Ireland, with tenant farmers demanding fair rents and land ownership. In Donegal, many families sought to secure their livelihoods through farming and local trade.
 
