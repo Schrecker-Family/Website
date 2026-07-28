@@ -33,7 +33,7 @@ With the outbreak of war, Britain declared an **internment** policy against enem
 
 Robert remained interned until **7 January 1919**, shortly after the war ended. His release came at a time when Britain was grappling with post‑war reconstruction, the introduction of new immigration regulations, and the integration of returning ex‑interns into civilian life.
 
-RObert maintained a diary throught hos time at the Alexandra Palace. These diaries are now held at [Knockaloe Centre for WW1 Internment](https://knockaloe.im)
+Robert maintained a diary throught hos time at the Alexandra Palace. These diaries are now held at [Knockaloe Centre for WW1 Internment](https://knockaloe.im)
 
 ---
 
