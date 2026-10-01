@@ -1,0 +1,12 @@
+
+Images:
+<figure markdown="span">
+  ![Image title](https://dummyimage.com/600x400/){ align=center }
+  <figcaption>Image caption</figcaption>
+</figure>
+
+Internal Links:
+She married [Robert Schrecker](SchreckerR1893.md) in 1921
+
+External Links:
+These diaries are now held at [Knockaloe Centre for WW1 Internment](https://knockaloe.im)
